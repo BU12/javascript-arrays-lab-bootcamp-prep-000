@@ -27,7 +27,7 @@ var prependKitten(name) = [...kittens]
 var removeLastKitten(name) = [...kittens]
   kittens.pop(name)
   return kittens
-  
+
 var removeFirstKitten(name) = [...kittens]
   kittens.shift(name)
   return kittens
